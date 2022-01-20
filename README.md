@@ -1,6 +1,5 @@
 # javatraining2022
-java training 2022
-Lecture Notes
+# Lecture Notes
 Please follow the instruction to prepare yourself for the course.
 
 1. Create Folder Structure
